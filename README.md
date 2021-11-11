@@ -1,26 +1,24 @@
-<h2 align="center"> Hi 👋 , I'm Woojin Jeong <br/></h2> 
-<br> <br>
-  <!-- <a href="https://github.com/woobba94" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/woobba94?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/woobba94" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=woobba94&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-  </h3> -->
+<br><br><div align="center"> 
 
-<div align="center">
+## Hi 👋 , I'm Woojin Jeong 
+
+### I love coding and learning...
+
+<br>
+
 <img src="do-not-touch-it-programmer.gif" width="50%"/>
 
 [gif_source](https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607, "gif_source link")
 
-</div>
-<br>
+</div><br><br>
 
 -----------------------------
-<br><br>
 
-<h2 align="center">Languages & Technologies</h2><br>
-<div align="center">
+<div align="center"><br><br>
+
+## Languages & Technologies
+
+<br><br>
 
 ![C++](https://img.shields.io/badge/-C++-100000?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-100000?style=flat-square&logo=python&logoColor=white)
@@ -46,74 +44,27 @@
 ![Flask](https://img.shields.io/badge/Flask-gray?style=flat-square&logo=Flask&logoColor=white)
 ![dJango](https://img.shields.io/badge/Django-gray?style=flat-square&logo=django&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-gray?style=flat-square&logo=expo&logoColor=white)
-<br>
+</div><br><br>
 
-</div>
-<br>
+------
 
+<div align="center"><br><br>
 
+ ## Stats 
 
-<br>
-
-
-</div>
-
-
-
--------------------------------------------------------------------------
-
-
-<br>
-<div align="center">
-
- ### ✨ I love coding + learning ✨ 
-
-
-<br>
-<br>
-<h4> Contect </h4>
-
-<br>
-<img src="https://img.shields.io/badge/jwj3199@gmail.com-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<br> <br>
-
-<br>
-🌟 sTaTs 🌟
-
-<br>
-
-
+<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woobba94&theme=dark&date_format=%5BY.%5Dn.j&ring=D8DD6753&fire=00B0DD)](https://git.io/streak-stats)
+</div><br><br>
 
+------
 
+<div align="center"><br><br>
 
-</div>
+ ## ✨ Contect ✨ 
 
-
-
-
-<br>
-
-
-
-
-<!-- <br>
-
-	
-	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<br>
-
-
-<div align="center">
-	
-
-![woobba94's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=woobba94&layout=compact&theme=synthwave&v=2)
-
-
-</div> -->
-
+<br><br>
+<img src="https://img.shields.io/badge/jwj3199@gmail.com-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</div><br><br>
 
 
 ------
