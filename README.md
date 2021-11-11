@@ -20,10 +20,6 @@
 <br><br>
 
 <h2 align="center">Languages & Technologies</h2><br>
-
-
-
-
 <div align="center">
 
 ![C++](https://img.shields.io/badge/-C++-100000?style=flat-square&logo=cplusplus)
