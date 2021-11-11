@@ -11,9 +11,7 @@
 <div align="center">
 <img src="do-not-touch-it-programmer.gif" width="50%"/>
 
-<a src="https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607">
-<small>gif_source</small>
-</a> 
+[gif_source](https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607, "gif_source link")
 
 </div>
 <br>
