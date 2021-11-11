@@ -9,10 +9,17 @@
   </h3> -->
 
 <div align="center">
-![](do-not-touch-it-programmer.gif)
+<img src="do-not-touch-it-programmer.gif" width="50%"/>
 
+<a src="https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607">
+<small>gif_source</small>
+</a> 
 
 </div>
+<br>
+
+-----------------------------
+<br><br>
 
 <h2 align="center">Languages & Technologies</h2><br>
 
@@ -91,7 +98,7 @@
 
 
 
-
+<br>
 
 
 
