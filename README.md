@@ -60,7 +60,7 @@
 
 <div align="center"><br><br>
 
- ## ✨ Contect ✨ 
+ ## ✨ Contact ✨ 
 
 <br><br>
 <img src="https://img.shields.io/badge/jwj3199@gmail.com-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
