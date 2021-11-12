@@ -63,7 +63,7 @@
  ## ✨ Contact ✨ 
 
 <br><br>
-<img src="https://img.shields.io/badge/jwj3199@gmail.com-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jwj3199@gmail.com)
 </div><br><br>
 
 
