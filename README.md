@@ -1,6 +1,6 @@
 <br><br><div align="center"> 
 
-## Hi 👋 , I'm Woojin Jeong 
+# Hi 👋 , I'm Woojin Jeong 
 
 ### I love coding and learning...
 
@@ -10,7 +10,7 @@
 
 <div align="center"><br><br>
 
-## Languages & Technologies
+# Languages & Technologies
 
 <br><br>
 
@@ -44,7 +44,7 @@
 
 <div align="center"><br><br>
 
- ## Stats 
+ # Stats 
 
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woobba94&theme=dark&date_format=%5BY.%5Dn.j&ring=D8DD6753&fire=00B0DD)](https://git.io/streak-stats)
@@ -54,7 +54,7 @@
 
 <div align="center"><br><br>
 
- ## ✨ Contact ✨ 
+ # ✨ Contact ✨ 
 
 <br><br>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jwj3199@gmail.com)
