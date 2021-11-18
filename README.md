@@ -1,14 +1,14 @@
-<br><br><div align="center"> 
+<br><div align="center"> 
 
 ### Hi 👋 , I'm Woojin Jeong 
 
  I love coding and learning...
 
-</div><br><br>
+</div><br>
 
 -----------------------------
 
-<div align="center"><br><br>
+<div align="center"><br>
 
 ### Languages & Technologies
 
@@ -42,17 +42,17 @@
 
 ------
 
-<div align="center"><br><br>
+<div align="center"><br>
 
  ### Stats 
 
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woobba94&theme=dark&date_format=%5BY.%5Dn.j&ring=D8DD6753&fire=00B0DD)](https://git.io/streak-stats)
-</div><br><br>
+</div><br>
 
 ------
 
-<div align="center"><br><br>
+<div align="center"><br>
 
  ### ✨ Contact ✨ 
 
