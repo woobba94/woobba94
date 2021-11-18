@@ -4,12 +4,6 @@
 
 ### I love coding and learning...
 
-<br>
-
-<img src="do-not-touch-it-programmer.gif" width="50%"/>
-
-[gif_source](https://tenor.com/view/do-not-touch-it-programmer-walking-cow-coding-gif-17252607, "gif_source link")
-
 </div><br><br>
 
 -----------------------------
