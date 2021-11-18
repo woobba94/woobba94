@@ -12,7 +12,7 @@
 
 ### Languages & Technologies
 
-<br><br>
+<br>
 
 ![C++](https://img.shields.io/badge/-C++-100000?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-100000?style=flat-square&logo=python&logoColor=white)
@@ -46,7 +46,7 @@
 
  ### Stats 
 
-<br><br>
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woobba94&theme=dark&date_format=%5BY.%5Dn.j&ring=D8DD6753&fire=00B0DD)](https://git.io/streak-stats)
 </div><br>
 
@@ -58,9 +58,8 @@
 
 <br><br>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jwj3199@gmail.com)
-</div><br><br>
+</div><br>
 
 
-------
 Credit: [woobba94](https://github.com/woobba94)
 Last Edited on: 11/11/2021
