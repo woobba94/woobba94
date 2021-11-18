@@ -1,8 +1,8 @@
 <br><br><div align="center"> 
 
-# Hi 👋 , I'm Woojin Jeong 
+### Hi 👋 , I'm Woojin Jeong 
 
-### I love coding and learning...
+ I love coding and learning...
 
 </div><br><br>
 
