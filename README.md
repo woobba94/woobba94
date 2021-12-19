@@ -1,6 +1,6 @@
 <div align="center"> 
 
-## Hi 👋 , I'm Woojin Jeong 
+### Hi 👋 , I'm Woojin Jeong 
 
  I love coding and learning...
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
- ## Languages & Technologies
+ ### Languages & Technologies
  
  <br>
  
