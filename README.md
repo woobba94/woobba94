@@ -1,4 +1,4 @@
-<br><div align="center"> 
+<div align="center"> 
 
 ### Hi 👋 , I'm Woojin Jeong 
 
@@ -6,9 +6,7 @@
 
 </div><br>
 
------------------------------
-
-<div align="center"><br>
+<div align="center">
 
 ### Languages & Technologies
 
@@ -38,26 +36,22 @@
 ![Flask](https://img.shields.io/badge/Flask-gray?style=flat-square&logo=Flask&logoColor=white)
 ![dJango](https://img.shields.io/badge/Django-gray?style=flat-square&logo=django&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-gray?style=flat-square&logo=expo&logoColor=white)
-</div><br><br>
+</div><br>
 
-------
-
-<div align="center"><br>
+<div align="center">
 
  ### Stats 
 
-<br><br>
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woobba94&theme=dark&date_format=%5BY.%5Dn.j&ring=D8DD6753&fire=00B0DD)](https://git.io/streak-stats)
 
-</div><br><br>
+</div><br>
 
-------
-
-<div align="center"><br>
+<div align="center">
 
  ### ✨ Contact ✨ 
 
-<br><br>
+<br>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jwj3199@gmail.com)
 </div><br>
 
