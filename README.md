@@ -1,15 +1,13 @@
 <div align="center"> 
 
-### Hi 👋 , I'm Woojin Jeong 
-
- I love coding and learning...
+### 안녕하세요?
+즐기는 개발자 정우진입니다.
 
 </div><br>
 
 <div align="center">
 
- ### Languages & Technologies
- 
+ <br> 
  <br>
  
  ![C++](https://img.shields.io/badge/-C++-100000?style=flat-square&logo=cplusplus)
@@ -56,9 +54,6 @@
 
 </div>
 <br>
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woobba94)](https://github.com/anuraghazra/github-readme-stats)
 
 Credit: [woobba94](https://github.com/woobba94)
 Last Edited on: 11/11/2021
