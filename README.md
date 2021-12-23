@@ -1,7 +1,7 @@
 <div align="center"> 
 
-### 안녕하세요?
-즐기는 개발자 정우진입니다.
+### 안녕하세요 : )
+Computational thinking 을 즐기는 개발자 정우진입니다.
 
 </div><br>
 
