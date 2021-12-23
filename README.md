@@ -56,6 +56,8 @@
 
 </div>
 <br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 Credit: [woobba94](https://github.com/woobba94)
 Last Edited on: 11/11/2021
