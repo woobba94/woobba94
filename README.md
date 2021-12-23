@@ -55,5 +55,14 @@
 </div>
 <br>
 
-Credit: [woobba94](https://github.com/woobba94)
-Last Edited on: 11/11/2021
+<div>
+ <div align="left">
+  Credit: [woobba94](https://github.com/woobba94)
+  Last Edited on: 11/11/2021
+ </div>
+ <div align="right">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoobba94)](https://hits.seeyoufarm.com)
+ </div>
+</div>
+
+
