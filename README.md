@@ -9,27 +9,27 @@
 
 <div align="center">
  
- ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS-orange?&style=flat-square&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-orange?style=flat-square&logo=TypeScript&logoColor=white)
- ![C++](https://img.shields.io/badge/-C++-hotpink?style=flat-square&logo=cplusplus)
- ![Python](https://img.shields.io/badge/Python-hotpink?style=flat-square&logo=python&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML-c7862c?style=flat-square&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-c7862c?&style=flat-square&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-c7862c?style=flat-square&logo=javascript&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-c7862c?style=flat-square&logo=TypeScript&logoColor=white)
+ ![C++](https://img.shields.io/badge/-C++-b75555?style=flat-square&logo=cplusplus)
+ ![Python](https://img.shields.io/badge/Python-b75555?style=flat-square&logo=python&logoColor=white)
  
  <br>
  
- ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white)
- ![Next.js](https://img.shields.io/badge/Next.js-blue?style=flat-square&logo=Next.js&logoColor=white)
- ![StyledComponent](https://img.shields.io/badge/styled--component-blue?style=flat-square)
- ![Flask](https://img.shields.io/badge/Flask-blue?style=flat-square&logo=Flask&logoColor=white)
- ![dJango](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white)
- ![Expo](https://img.shields.io/badge/Expo-blue?style=flat-square&logo=expo&logoColor=white)
+ ![React](https://img.shields.io/badge/React-3881d9?style=flat-square&logo=React&logoColor=white)
+ ![Next.js](https://img.shields.io/badge/Next.js-3881d9?style=flat-square&logo=Next.js&logoColor=white)
+ ![StyledComponent](https://img.shields.io/badge/styled--component-3881d9?style=flat-square)
+ ![Flask](https://img.shields.io/badge/Flask-7c56a6?style=flat-square&logo=Flask&logoColor=white)
+ ![dJango](https://img.shields.io/badge/Django-7c56a6?style=flat-square&logo=django&logoColor=white)
+ ![Expo](https://img.shields.io/badge/Expo-7c56a6?style=flat-square&logo=expo&logoColor=white)
  
  <br>
  
- ![VS](https://img.shields.io/badge/VisualStudio-092E20?style=flat-square&logo=VisualStudio&logoColor=white)
- ![VSCode](https://img.shields.io/badge/VSCode-092E20?style=flat-square&logo=visualstudiocode&logoColor=white)
- ![Pycharm](https://img.shields.io/badge/Pycharm-092E20?style=flat-square&logo=Pycharm&logoColor=white)
+ ![VS](https://img.shields.io/badge/VisualStudio-49ae73?style=flat-square&logo=VisualStudio&logoColor=white)
+ ![VSCode](https://img.shields.io/badge/VSCode-49ae73?style=flat-square&logo=visualstudiocode&logoColor=white)
+ ![Pycharm](https://img.shields.io/badge/Pycharm-49ae73?style=flat-square&logo=Pycharm&logoColor=white)
  
  <br>
 </div>
